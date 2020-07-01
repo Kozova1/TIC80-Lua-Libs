@@ -1,11 +1,11 @@
 # TIC-80 Libraries
 In this repo there are a few libraries that you can just copy and paste into TIC-80 and use.  
 ## Available libraries
-- [libMenu](./MenuSystem/README.md)
-- [libGui](./GuiSystem/README.md)
-- [libTimer](./TimerSystem/README.md)
-- [libBindKey](./BindKeySystem/README.md)
-- [libNameEntry](./NameEntry/README.md)
+- [libMenu](./libMenu/README.md)
+- [libGui](./libGui/README.md)
+- [libTimer](./libTimer/README.md)
+- [libBindKey](./libBindKey/README.md)
+- [libNameEntry](./libNameEntry/README.md)
 
 `libMenu` is a customizable library for creating interactive menu screens.  
 `libGui` is a customizable (but small) library for creating labels and buttons (with callbacks) declaratively.  
